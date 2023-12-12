@@ -1,0 +1,13 @@
+body {
+    background:linear-gradient(to left, rgb(253, 185, 185), rgb(82, 60, 60)) ;
+    text-align: center;
+    color: #2e2e2e;
+}
+.nav {
+    background-color: pink;
+    text-align: center;
+
+}
+h2 {
+    background-color: antiquewhite;
+}
